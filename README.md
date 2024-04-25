@@ -5,7 +5,7 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     Estudiante de 4to año de Ingeniería en Sistemas de Información. Tengo un gran interés en crecer como profesional, dispuesto a aprender y trabajar con nuevas tecnologías y herramientas.
 
-Actualmente, me encuentro profundizando mis conocimientos en las ramas de Data Science
+Actualmente, me encuentro profundizando mis conocimientos en el Desarrollo de Software
 
 Intereses en Data, Business, Startups, & Tech.
 Buen desempeño trabajando en equipo.
