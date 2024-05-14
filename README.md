@@ -3,13 +3,11 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Pedemonte Santiago </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Estudiante de 4to año de Ingeniería en Sistemas de Información. Tengo un gran interés en crecer como profesional, dispuesto a aprender y trabajar con nuevas tecnologías y herramientas.
+4th-year student of Information Systems Engineering with a keen interest in advancing as a professional, eager to learn and work with new technologies and tools.
 
-Actualmente, me encuentro profundizando mis conocimientos en el Desarrollo de Software
+Currently deepening my knowledge in Software Engineering.
 
-Intereses en Data, Business, Startups, & Tech.
-Buen desempeño trabajando en equipo.
-Aprendizaje constante. <p>
+Passionate about Data, Business, Startups, & Tech. Strong team player with a knack for continuous learning. <p>
 <br>
 <br>
 :mailbox: Contactame!
