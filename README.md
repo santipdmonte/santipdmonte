@@ -3,11 +3,13 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Pedemonte Santiago </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-4th-year student of Information Systems Engineering with a keen interest in advancing as a professional, eager to learn and work with new technologies and tools.
+I’m Santiago, a tech enthusiast with a passion for problem-solving and a creative yet rational mindset. I’m currently in my fourth year of a Systems Engineering degree, where I’ve built a strong foundation in software development, data structures, and algorithms. My love for technology has driven me to explore the world of software development, startups, and technological innovation.
 
-Currently deepening my knowledge in Software Engineering.
+I’m motivated by the idea of creating efficient solutions that can positively impact people and businesses. I firmly believe in the power of technology to transform industries, and my goal is to contribute to this change by working on projects that challenge my skills and expand my knowledge.
 
-Passionate about Data, Business, Startups, & Tech. Strong team player with a knack for continuous learning. <p>
+I’m constantly seeking new opportunities to apply and enhance my technical abilities, as well as to learn from experiences in dynamic and high-demand environments.
+
+Contact: ~ Santiagopedemonte02@gmail.com <p>
 <br>
 <br>
 :mailbox: Contactame!
