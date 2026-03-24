@@ -3,13 +3,24 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Pedemonte Santiago </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-I’m Santiago, a tech enthusiast with a passion for problem-solving and a creative yet rational mindset. I’m currently in my last year of a Systems Engineering degree, where I’ve built a strong foundation in software development, data structures, and algorithms. My love for technology has driven me to explore the world of software development, startups, and technological innovation.
+Building the digital front desk for clinics and hospitals in Argentina.
 
-I’m motivated by the idea of creating efficient solutions that can positively impact people and businesses. I firmly believe in the power of technology to transform industries, and my goal is to contribute to this change by working on projects that challenge my skills and expand my knowledge.
+The problem is straightforward: appointments, questions, and referrals still come in by phone, overwhelming front desk teams and frustrating patients. And most healthcare centers can't replace their core systems overnight
 
-I’m constantly seeking new opportunities to apply and enhance my technical abilities, as well as to learn from experiences in dynamic and high-demand environments.
+At Kendal, we solve this without touching what they already have:
 
-Contact: ~ Santiagopedemonte02@gmail.com <p>
+→ An AI-powered WhatsApp receptionist, available 24/7
+→ A patient-facing web portal to manage appointments, family members, and health insurance autonomously.
+
+Today, we process over 23,000 appointments per month.
+
+I'm a Systems Engineer, but what drives me isn't the code itself. It's seeing a solution work in the real world, with real people using it every day.
+
+If you work at a healthcare center and want to modernize your patient experience without replacing your current systems, reach out.
+
+kendalsalud.com
+
+Contact: ~ hi@spedemonte.com <p>
 <br>
 <br>
 :mailbox: Contactame!
